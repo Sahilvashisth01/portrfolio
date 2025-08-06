@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
-import hero from "./data/hero.json";
+import hero from "./Data/hero.json";
 
 const Home = () => {
   const typedRef = useRef(null);
