@@ -31,7 +31,7 @@ const Home = () => {
           <h1 ref={typedRef}> </h1>
 
           <a
-            href="/pdf/resume.pdf"
+            href="/pdf/Sahil-Resume.pdf"
             download="Sahil_Vashisth_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
